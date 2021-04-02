@@ -7,6 +7,11 @@ The useless plugin no-one asked for, aka an excuse for not working on other stuf
 2. Allows for repair of a broken jackhammer via the /rejack command.
 3. Allows for the jackhammer to be used for faster repair
 
+## Commands
+  - /rejack -- Repair a broken jackhammer - command required since a broken item cannot be held
+  - /repjack -- Turns the jackhammer into a repair tool for up to the number of seconds configured (repjacktime).  Chat messages sent on activation/deactivation
+
+
 ## Configuration
 ```json
 {
